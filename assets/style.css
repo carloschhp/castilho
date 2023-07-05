@@ -4040,9 +4040,20 @@ html {
   }
   .header__logo img {
     display: inline-block;
-    margin: 1.59375rem 0;
+    margin: 0px 0px 0px -10px;
     transition: all 200ms ease-out;
-  }
+    width: 280px;
+    height: auto;
+    /* image-rendering: pixelated; */
+}
+.overlay__video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
   .header__logo a {
     color: #333;
   }
