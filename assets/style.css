@@ -9656,7 +9656,9 @@ html {
 
   .footer-top {
     background-color: #eeeeee;
-  }
+    box-shadow: #0000003d 0px 15px 20px -10px;
+    padding-bottom: 40px;
+}
 
   .logo__footer img {
     height: auto;
