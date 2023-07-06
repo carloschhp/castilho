@@ -4653,7 +4653,7 @@ html {
     .main-navigation > .menu-item-has-children::after {
       position: absolute;
       content: "\f0d7";
-      /* font-family: fontawesome; */
+      font-family: fontawesome;
       bottom: 1.375rem;
       left: calc(50% - 0.3125rem);
       color: #999;
@@ -5606,7 +5606,7 @@ html {
   .page-box__more-link::after {
     position: absolute;
     content: "\f105";
-    /* font-family: fontawesome; */
+    font-family: fontawesome;
     right: -0.9375rem;
     top: calc(50% - 0.75rem);
   }
