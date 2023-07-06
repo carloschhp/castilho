@@ -4325,7 +4325,13 @@ html {
   }
   .footer-middle {
     text-align: center;
-    padding: 30px 0px;
+    padding: 70px 0px 50px 0px;
+  }
+  .linhadotempo {
+    padding-top: 60px;
+  }
+  .linhadotempo .section__title {
+    background-color: black;
   }
   .footer-bottom {
     position: relative;
@@ -5336,6 +5342,7 @@ html {
   .portfolio-grid__card-block {
     padding: 0.9375rem 1.1875rem 0.875rem;
     position: relative;
+    min-height: 80px;
   }
   .portfolio-grid__card-block::after {
     position: absolute;
@@ -5349,6 +5356,8 @@ html {
   }
   .portfolio-grid__card-img {
     width: 100%;
+    height: 180px !important;
+    object-fit: cover;
   }
   .portfolio-grid__card-title {
     font-size: 0.9375rem;
@@ -6847,6 +6856,17 @@ html {
   .widget img {
     max-width: 100%;
     height: auto;
+  }
+  .logo__cliente img {
+    width: 100%;
+    height: auto;
+    border: none;
+    max-width: 100px;
+  }
+  .logo__cliente {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .widget_calendar table {
     width: 100%;
