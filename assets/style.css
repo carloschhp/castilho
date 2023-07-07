@@ -5642,7 +5642,13 @@ html {
   }
   .page-box--block .page-box__picture img {
     width: 100%;
+    height: 200px;
+    object-fit: cover;
   }
+
+  .linha__tempo .panel-grid-cell {
+    margin: 0px 10px;
+}
   .page-box--block .page-box__picture + .page-box__content .page-box__title {
     margin-top: 1.4375rem;
   }
@@ -9951,6 +9957,11 @@ html {
   .animate__delay-900ms {
     /* --animate-delay: 0.5s !important; */
     animation-delay: 0.9s;
+  }
+
+  .animate__delay-1500ms {
+    /* --animate-delay: 0.5s !important; */
+    animation-delay: 1500ms;
   }
 
   .layer img {
