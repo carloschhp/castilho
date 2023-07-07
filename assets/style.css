@@ -4066,6 +4066,10 @@ html {
   height: 100%;
   background: linear-gradient(to bottom, rgb(0 0 0 / 50%), rgb(0 0 0 / 23%));
 }
+
+.hidden {
+  opacity: 0;
+}
   .header__logo a {
     color: #333;
   }
@@ -9926,12 +9930,13 @@ html {
     top: 0px;
     left: 0px;
     z-index: 99999999;
-    /* cursor: none; */
-    /* display: none; */
-    display: flex;
-    align-items: center;
-    justify-content: center;
     /* display: none !important; */
+  }
+
+  .layer__active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .animate__delay-500ms {
