@@ -11,6 +11,8 @@
   <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
   <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/css/bootstrap.min.css">
+
 
   <!-- <link rel="stylesheet" href="https://demo.proteusthemes.com/structurepress/wp-content/themes/structurepress-pt/style.css?ver=1.11.3-1-gec727a9" /> -->
 
@@ -609,10 +611,10 @@
       </div>
     </header>
     <div class="jumbotron jumbotron--with-captions">
-      <div class="carousel slide js-jumbotron-slider" id="headerCarousel" data-ride="carousel" data-interval="5000">
+      <div class="carousel slide js-jumbotron-slider" id="headerCarousel">
         <div class="carousel-inner" style="position: relative;">
           <div class="carousel-item active">
-            <img src="img\IMG-20230526-WA0031.jpg" alt="65 anos construindo caminhos para o futuro" />
+            <img src="img/IMG-20230526-WA0031.jpg" alt="65 anos construindo caminhos para o futuro" />
             <div class="container">
               <div class="jumbotron-content">
                 <h1 class="jumbotron-content__title">
@@ -620,9 +622,26 @@
                 </h1>
                 <div class="jumbotron-content__description">
                   <p>
-                    A Construtora Castilho fez mais de 200 obras em todo o
-                    mundo. Oferecemos modelagem 3D gratuita e garantia de 3
-                    anos.
+                    A Construtora Castilho fez mais de 200 obras em todo o mundo. Oferecemos modelagem 3D gratuita e garantia de 3 anos.
+                  </p>
+                  <p>
+                    <a class="btn btn-tertiary" href="/" target="_self">SAIBA MAIS</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="overlay__topo"></div>
+          </div>
+          <div class="carousel-item">
+            <img src="img\IMG-20230526-WA0032.jpg" alt="65 anos construindo caminhos para o futuro" />
+            <div class="container">
+              <div class="jumbotron-content">
+                <h1 class="jumbotron-content__title">
+                  265 anos construindo caminhos para o futuro
+                </h1>
+                <div class="jumbotron-content__description">
+                  <p>
+                    A Construtora Castilho fez mais de 200 obras em todo o mundo. Oferecemos modelagem 3D gratuita e garantia de 3 anos.
                   </p>
                   <p>
                     <a class="btn btn-tertiary" href="/" target="_self">SAIBA MAIS</a>
@@ -633,63 +652,28 @@
             <div class="overlay__topo"></div>
           </div>
         </div>
-        <div class="jumbotron__extras">
-          <div class="container">
-            <!-- <a class="left jumbotron__control"
-href="https://demo.proteusthemes.com/structurepress/?ifc=1&amp;buy_link=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F13743206%3Flicense%3Dregular&amp;support=bundle_6month#headerCarousel"
-role="button" data-slide="prev">
-<i class="fa fa-caret-left"></i>
-</a>
-<a class="right jumbotron__control"
-href="https://demo.proteusthemes.com/structurepress/?ifc=1&amp;buy_link=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F13743206%3Flicense%3Dregular&amp;support=bundle_6month#headerCarousel"
-role="button" data-slide="next">
-<i class="fa fa-caret-right"></i>
-</a> -->
-
-            <div class="jumbotron__widgets hidden-md-down">
-              <div class="widget widget-icon-box">
-                <div class="icon-box">
-                  <i class="fa fa-phone"></i>
-                  <div class="icon-box__text">
-                    <h4 class="icon-box__title">Whatsapp:</h4>
-                    <span class="icon-box__subtitle"> (41) 3025-3333</span>
-                  </div>
-                </div>
-              </div>
-              <div class="widget widget-icon-box">
-                <div class="icon-box">
-                  <i class="fa fa-clock-o"></i>
-                  <div class="icon-box__text">
-                    <h4 class="icon-box__title">Horário de atendimento:</h4>
-                    <span class="icon-box__subtitle">Seg - Sex: 7h - 18h</span>
-                  </div>
-                </div>
-              </div>
-              <div class="widget widget-icon-box">
-                <div class="icon-box">
-                  <i class="fa fa-envelope-o"></i>
-                  <div class="icon-box__text">
-                    <h4 class="icon-box__title">E-mail:</h4>
-                    <span class="icon-box__subtitle">construtoracastilho@email.com</span>
-                  </div>
-                </div>
-              </div>
-              <div class="widget widget-social-icons">
-                <a class="social-icons__link" href="https://www.facebook.com/construtoracastilho/" target="_self"><i class="fa fa-facebook-square"></i></a>
-                <a class="social-icons__link" href="https://twitter.com/construtoracastilho" target="_self"><i class="fa fa-twitter-square"></i></a>
-                <a class="social-icons__link" href="https://www.youtube.com/user/construtoracastilho" target="_self"><i class="fa fa-youtube-square"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
+        <a class="carousel-control-prev" href="#headerCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#headerCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Próximo</span>
+        </a>
+        <ol class="carousel-indicators">
+          <li data-target="#headerCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#headerCarousel" data-slide-to="1"></li>
+        </ol>
       </div>
     </div>
+  
+
     <div id="primary" class="content-area container" role="main">
       <div class="entry-content">
         <div id="pl-11" class="panel-layout">
           <div id="pg-11-0" class="panel-grid panel-has-style">
             <div class="panel-row-style panel-row-style-for-11-0">
-              <div id="pgc-11-0-0" class="panel-grid-cell">
+              <div id="pgc-11-0-0" class="panel-grid-cell animate__fadeInUp animate__animated">
                 <div id="panel-11-0-0-0"
                   class="so-panel widget widget_pw_featured_page widget-featured-page panel-first-child panel-last-child"
                   data-index="0">
@@ -714,7 +698,7 @@ role="button" data-slide="next">
                   </div>
                 </div>
               </div>
-              <div id="pgc-11-0-1" class="panel-grid-cell">
+              <div id="pgc-11-0-1" class="panel-grid-cell animate__fadeInUp animate__animated animate__delay-500ms">
                 <div id="panel-11-0-1-0"
                   class="so-panel widget widget_pw_featured_page widget-featured-page panel-first-child panel-last-child"
                   data-index="1">
@@ -740,7 +724,7 @@ role="button" data-slide="next">
                   </div>
                 </div>
               </div>
-              <div id="pgc-11-0-2" class="panel-grid-cell">
+              <div id="pgc-11-0-2" class="panel-grid-cell animate__fadeInUp animate__animated animate__delay-1s">
                 <div id="panel-11-0-2-0"
                   class="so-panel widget widget_pw_featured_page widget-featured-page panel-first-child" data-index="2">
                   <div class="page-box page-box--inline">
@@ -1197,7 +1181,9 @@ role="button" data-slide="next">
   <!-- <script type="text/javascript" src="assets/index.js" id="swv-js"></script>
   <script type="text/javascript" src="assets/underscore.min.js" id="underscore-js"></script>
   <script type="text/javascript" src="assets/jquery.blockUI.min.js" id="jquery-blockui-js"></script> -->
-
+    <!-- Importar arquivos JavaScript do Bootstrap e jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/js/bootstrap.min.js"></script>
 </body>
 
 </html>

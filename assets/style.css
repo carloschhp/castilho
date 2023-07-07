@@ -9934,6 +9934,11 @@ html {
     /* display: none !important; */
   }
 
+  .animate__delay-500ms {
+    /* --animate-delay: 0.5s !important; */
+    animation-delay: 0.5s;
+  }
+
   .layer img {
     height: auto;
     width: 50vw;
