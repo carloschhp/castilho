@@ -7,7 +7,6 @@
   <title>Construtora Castilho</title>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.blockUI/2.70/jquery.blockUI.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
   <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
   <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -420,7 +419,7 @@
       line-height: 1.6;
     }
   </style>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
   <link rel="stylesheet" href="assets/styles.css" media="all" />
   <link rel="stylesheet" id="siteorigin-panels-front-css" href="assets/front-flex.min.css" type="text/css" media="all" />
   <link rel="stylesheet" href="assets/pt-style-switcher.min.css" media="all" />
@@ -445,7 +444,7 @@
 <body class="home page-template page-template-template-front-page-slider page-template-template-front-page-slider-php page page-id-11 theme-structurepress-pt siteorigin-panels siteorigin-panels-home woocommerce-js wp-featherlight-captions pt-pb-loaded boxed" style="background-image: url('assets/1.png');">
 
   <div class="layer layer__active" style="background-image: url('assets/1.png');">
-    <img class="animate__animated animate__backInDown" src="assets/logo-castilho-preto.png"/>
+    <img class="bounceInDown hidden__intro" src="assets/logo-castilho-preto.png"/>
   </div>
 
   <div class="boxed-container">
@@ -465,7 +464,7 @@
       </div>
       <div class="header">
         <div class="container">
-          <div class="header__logo">
+          <div class="header__logo fade_in_left hidden">
             <a href="#">
               <img src="assets/logo-castilho-preto.png" alt="Castilho" class="img-fluid" width="269" height="70" />
             </a>
@@ -475,7 +474,7 @@
             <i class="fa fa-bars hamburger"></i> <span>MENU</span>
           </button>
 
-          <nav class="header__navigation collapse navbar-toggleable-md js-sticky-offset" id="structurepress-main-navigation" aria-label="Main Menu">
+          <nav class="header__navigation collapse navbar-toggleable-md js-sticky-offset fade_in_right hidden" id="structurepress-main-navigation" aria-label="Main Menu">
             <a class="home-icon" href="/">
               <i class="fa fa-home"></i>
             </a>
@@ -616,7 +615,7 @@
           <div class="carousel-item active">
             <img src="img\IMG-20230526-WA0031.jpg" alt="65 anos construindo caminhos para o futuro" />
             <div class="container">
-              <div class="jumbotron-content">
+              <div class="jumbotron-content slide_in_up hidden animated-delay-2s" data-delay="3000">
                 <h1 class="jumbotron-content__title">
                   65 anos construindo caminhos para o futuro
                 </h1>
@@ -691,7 +690,7 @@ role="button" data-slide="next">
         <div id="pl-11" class="panel-layout">
           <div id="pg-11-0" class="panel-grid panel-has-style">
             <div class="panel-row-style panel-row-style-for-11-0">
-              <div id="pgc-11-0-0" class="panel-grid-cell animate__fadeInUp animate__animated">
+              <div id="pgc-11-0-0" class="panel-grid-cell hidden bounceInDown__">
                 <div id="panel-11-0-0-0"
                   class="so-panel widget widget_pw_featured_page widget-featured-page panel-first-child panel-last-child"
                   data-index="0">
@@ -716,7 +715,7 @@ role="button" data-slide="next">
                   </div>
                 </div>
               </div>
-              <div id="pgc-11-0-1" class="panel-grid-cell animate__fadeInUp animate__animated animate__delay-500ms">
+              <div id="pgc-11-0-1" class="panel-grid-cell hidden bounceInDown__ animate__delay-500ms">
                 <div id="panel-11-0-1-0"
                   class="so-panel widget widget_pw_featured_page widget-featured-page panel-first-child panel-last-child"
                   data-index="1">
@@ -742,7 +741,7 @@ role="button" data-slide="next">
                   </div>
                 </div>
               </div>
-              <div id="pgc-11-0-2" class="panel-grid-cell animate__fadeInUp animate__animated animate__delay-1s">
+              <div id="pgc-11-0-2" class="panel-grid-cell hidden bounceInDown__ animate__delay-900ms">
                 <div id="panel-11-0-2-0"
                   class="so-panel widget widget_pw_featured_page widget-featured-page panel-first-child" data-index="2">
                   <div class="page-box page-box--inline">
@@ -786,7 +785,7 @@ role="button" data-slide="next">
             <div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-11-1" data-stretch-type="full" style="margin-left: -133.5px; margin-right: -133.5px; padding-left: 133.5px; padding-right: 133.5px; border-left: 0px; border-right: 0px;">
               <div id="pgc-11-1-0" class="panel-grid-cell">
                 <div class="section__title">
-                  <h1 class="animate__fadeInLeft animate__animated hidden">Áreas de atuação</h1>
+                  <h1 class="fade_in_left hidden">Áreas de atuação</h1>
                 </div>
                 <div id="panel-11-1-0-0"
                   class="so-panel widget widget_pw_portfolio_grid widget-portfolio-grid panel-first-child panel-last-child"
@@ -815,13 +814,13 @@ role="button" data-slide="next">
                         </li>
                       </ul>
                     </nav>
-                    <div id="portfolio-grid-widget-1-0-0" class="carousel slide" data-ride="carousel" data-interval="false">
-                      <div class="carousel-inner js-wpg-items" role="listbox">
+                    <div id="portfolio-grid-widget-1-0-0" class="slide_in_up hidden">
+                      <div class="carousel-inner " role="listbox">
                         <div class="carousel-item active">
                           <div class="row">
                             <div class="col-xs-12 col-sm-6 col-lg-3 js-wpg-item" data-categories="1958">
-                              <a class="card portfolio-grid__card js-wpg-card animate__animated animate__fadeInUp hidden" href="#">
-                                <img width="360" height="240" src="https://www.castilho.com.br/img/obra_conc7.JPG"
+                              <a class="card portfolio-grid__card js-wpg-card " href="#">
+                                <img width="360" height="240" src="assets/imgarea1.jpg"
                                   class="card-img-top portfolio-grid__card-img wp-post-image" alt="" decoding="async"
                                   loading="lazy" />
                                 <div class="card-block portfolio-grid__card-block">
@@ -835,7 +834,7 @@ role="button" data-slide="next">
                               </a>
                             </div>
                             <div class="col-xs-12 col-sm-6 col-lg-3 js-wpg-item" data-categories="1967">
-                              <a class="card portfolio-grid__card js-wpg-card animate__animated animate__fadeInUp hidden" href="#">
+                              <a class="card portfolio-grid__card js-wpg-card " href="#">
                                 <img width="360" height="240" src="https://www.castilho.com.br/img/obra_conc1.jpg"
                                   class="card-img-top portfolio-grid__card-img wp-post-image" alt="" decoding="async"
                                   loading="lazy" />
@@ -850,7 +849,7 @@ role="button" data-slide="next">
                               </a>
                             </div>
                             <div class="col-xs-12 col-sm-6 col-lg-3 js-wpg-item" data-categories="1976">
-                              <a class="card portfolio-grid__card js-wpg-card animate__animated animate__fadeInUp hidden" href="#">
+                              <a class="card portfolio-grid__card js-wpg-card " href="#">
                                 <img width="360" height="240" src="https://www.castilho.com.br/img/obra_conc5.JPG"
                                   class="card-img-top portfolio-grid__card-img wp-post-image" alt="" decoding="async"
                                   loading="lazy" />
@@ -865,7 +864,7 @@ role="button" data-slide="next">
                               </a>
                             </div>
                             <div class="col-xs-12 col-sm-6 col-lg-3 js-wpg-item" data-categories="1998">
-                              <a class="card portfolio-grid__card js-wpg-card animate__animated animate__fadeInUp hidden" href="#">
+                              <a class="card portfolio-grid__card js-wpg-card " href="#">
                                 <img width="360" height="240" src="https://www.castilho.com.br/img/obra_conc8.jpg"
                                   class="card-img-top portfolio-grid__card-img wp-post-image" alt="" decoding="async"
                                   loading="lazy" />
@@ -1030,7 +1029,7 @@ role="button" data-slide="next">
                 <div id="panel-11-4-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child"
                   data-index="11">
                   <div class="so-widget-sow-editor so-widget-sow-editor-base">
-                    <div class="siteorigin-widget-tinymce textwidget">
+                    <div class="siteorigin-widget-tinymce textwidget hidden slide_in_up">
                       <h3 style="
                             text-align: center;
                             font-size: 2.5rem;
@@ -1038,11 +1037,14 @@ role="button" data-slide="next">
                           ">
                         Missão, Visão e Valores
                       </h3>
-                      <p style="text-align: center">
-                        <span style="color: #333333">Construir relações duradouras com clientes,
-                          parceiros e fornecedores por meio da adoção de uma
-                          conduta acessível, baseada em transparência,
-                          respeito e honestidade..</span>
+                      <p style="text-align: center; color: #333;">
+                        Construir relações duradouras com clientes, parceiros e fornecedores por meio da adoção de uma conduta acessível, baseada em transparência, respeito e honestidade.
+                      </p>
+                      <p style="text-align: center; color: #333;">
+                        Cumprir prazos e compromissos, realizar projetos com responsabilidade, eficácia e competência, garantindo segurança, qualidade e excelência de resultados.
+                      </p>
+                      <p style="text-align: center; color: #333;">
+                        A dentro da legalidade, adotando princípios como justiça, equidade, integridade e solidariedade.
                       </p>
                     </div>
                   </div>
@@ -1056,7 +1058,7 @@ role="button" data-slide="next">
             <div id="pgc-11-6-0" class="panel-grid-cell">
               <div id="panel-11-6-0-0" class="so-panel widget widget_text panel-first-child panel-last-child"
                 data-index="13">
-                <h3 class="widget-title">
+                <h3 class="widget-title fade_in_left hidden">
                   <span class="widget-title__inline">Clientes</span>
                 </h3>
                 <div class="textwidget">
@@ -1100,7 +1102,7 @@ role="button" data-slide="next">
             <div class="col-xs-12 col-md-4">
               <div class="widget widget_text">
                 <div class="textwidget logo__footer">
-                  <img src="assets/logo-castilho-preto.png" alt="Footer Logo" />
+                  <img src="assets/logo-castilho-preto.png" class="hidden bounceInDown__" alt="Footer Logo" />
                   <br /><br />
                 </div>
               </div>
@@ -1157,7 +1159,7 @@ role="button" data-slide="next">
 
       <!-- <div class="footer-middle" style="background-image: url('assets/1.png');"> -->
         <div class="footer-middle">
-        <img class="logo__65anos" src="assets/65anos.png" alt="">
+        <img class="logo__65anos zoom_in hidden" src="assets/65anos.png" alt="">
       </div>
 
       <div class="footer-bottom">
@@ -1172,7 +1174,7 @@ role="button" data-slide="next">
       </div>
     </footer>
   </div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
 
