@@ -5022,7 +5022,7 @@ html {
   }
   .jumbotron .carousel-item > img {
     width: 100%;
-    height: 500px;
+    height: 470px;
     object-fit: cover;
     object-position: center;
     transform: scaleX(-1);
@@ -5284,13 +5284,12 @@ html {
     color: #333;
   }
   .portfolio-grid__nav-link {
-    font-size: 0.9375rem;
-    font-family: roboto, Helvetica, Arial, sans-serif;
+    font-size: 1rem;
     font-weight: 700;
     display: block;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    color: #999;
+    color: #dcdcdc;
     transition: all 200ms ease-out;
   }
   @media (min-width: 992px) {
@@ -5646,8 +5645,59 @@ html {
     object-fit: cover;
   }
 
+  .linha__tempo {
+    position: relative;
+  }
+
   .linha__tempo .panel-grid-cell {
     margin: 0px 10px;
+}
+
+.linha__tempo__content {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+.linha__tempo__content__img {
+  width: 100%;
+  max-width: 800px;
+}
+.areas__atuacao {
+  position: relative;
+}
+.areas__atuacao__obraimg {
+
+}
+.portfolio__item__desc {
+  margin: 50px 0px 40px 0px;
+}
+.section__mapaimg {
+  margin: 70px 0px 0px 0px;
+  display: flex;
+  justify-content: center;
+}
+.section__mapa img {
+  max-width: 780px !important;
+  width: 100%;
+}
+.section__description {
+  padding-right: 200px;
+  margin: 50px 0px 50px 0px;
+}
+.detail1 {
+  position: absolute;
+  top: -60px;
+  right: -5px;
+  width: 25vw;
+  transform: scaleX(-1);
+}
+
+.detail2 {
+  position: absolute;
+  bottom: -90px;
+  left: -5px;
+  width: 30vw;
+  transform: scaley(-1);
 }
   .page-box--block .page-box__picture + .page-box__content .page-box__title {
     margin-top: 1.4375rem;
@@ -9755,12 +9805,12 @@ html {
   }
 
   .section__title h1 {
-    font-size: 2.5rem;
-    /* text-transform: uppercase; */
+    font-size: 3.4rem;
+    text-transform: uppercase;
     margin: 30px 0px 40px 0px;
-    font-family: roboto, Helvetica, Arial, sans-serif;
-    font-weight: 700;
+    font-weight: 900;
     line-height: 1.1;
+    color: #878787;
   }
 
   /* Layout 11 */
@@ -9775,7 +9825,8 @@ html {
   }
 
   #pg-11-0 {
-    margin-bottom: 51px;
+    margin-bottom: 90px;
+    margin-top: 100px;
   }
 
   #pgc-11-1-0,
