@@ -4862,12 +4862,12 @@ html {
   }
   @media (min-width: 1500px) {
     .jumbotron-content {
-      top: 10%;
+      top: 6%;
     }
   }
   @media (min-width: 1700px) {
     .jumbotron-content {
-      top: 19.5%;
+      top: 6%;
     }
   }
   .jumbotron-content__title {
@@ -5022,9 +5022,9 @@ html {
   }
   .jumbotron .carousel-item > img {
     width: 100%;
-    height: 470px;
+    height: 500px;
     object-fit: cover;
-    object-position: top;
+    object-position: center;
     transform: scaleX(-1);
   }
   .page-template-template-front-page-slider-alt .site-header {
@@ -9837,7 +9837,7 @@ html {
   #pg-11-0>.panel-row-style {
     padding: 0px;
   }
-
+ 
   #pg-11-1>.panel-row-style,
   #pg-11-3>.panel-row-style {
     background-color: #f2f2f2;
