@@ -5609,9 +5609,48 @@ html {
 
 .linha__tempo__content {
   display: flex;
-  justify-content: flex-end;
-  align-items: baseline;
+  justify-content: right;
+  align-items: center;
+  padding: 100px 0px 80px 250px;
+  flex-wrap: wrap;
 }
+.linha__tempo__content__dots {
+  width: 17%;
+  position: relative;
+  cursor: pointer;
+  margin: 0px 15px 20px 10px;
+  text-align: center;
+}
+.linha__tempo__content__dots img {
+  /* filter: grayscale(1); */
+  transition: all 0.3s ease;
+  }
+.dot__ano {
+  display: block;
+  font-size: 1.8rem;
+  /* font-weight: 900; */
+}
+.linha__tempo__content__dotdescriptopn {
+  background-color: #fba717;
+  display: block;
+  padding: 20px;
+  position: absolute;
+  top: -30%;
+  left: -50px;
+  transition: all 0.3s ease;
+  opacity: 0;
+  color: #000;
+  z-index: 999;
+  width: 320px;
+  border-radius: 10px;
+  box-shadow: #00000061 14px 14px 15px -10px;
+}
+.linha__tempo__content__dots:hover .linha__tempo__content__dotdescriptopn {
+  opacity: 1;
+  }
+  .linha__tempo__content__dots:hover img {
+    filter: brightness(0.7);
+    }
 .linha__tempo__content__img {
   width: 100%;
   max-width: 850px;
@@ -5664,6 +5703,21 @@ html {
   left: 0px;
   width: 10vw;
   /* transform: scaley(-1); */
+}
+.detail4 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 40vw;
+  transform: scalex(-1);
+}
+.quemsomos h3 {
+  font-size: 3.4rem;
+  text-transform: uppercase;
+  margin: 30px 0px 40px 0px;
+  font-weight: 900;
+  line-height: 1.1;
+  color: #FFF;
 }
   .page-box--block .page-box__picture + .page-box__content .page-box__title {
     margin-top: 1.4375rem;
@@ -9869,14 +9923,23 @@ html {
     padding: 30px;
   }
 
-  #pg-11-4>.panel-row-style {
+  .quemsomos {
     /* background-image: url(promise_values-1.jpg); */
     background-image: Linear-gradient(rgba(0,0,0,1),rgb(0 0 0 / 22%)),url(https://www.castilho.com.br/css/img/imagem_equipe_codigo.jpg);
     background-repeat: no-repeat;
-    padding: 140px 90px;
+    padding: 80px 0px;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    position: relative;
+  }
+
+  .quemsomos__content {
+    color: #FFF;
+  }
+  
+  .quemsomos__content2 {
+    padding: 0px 90px 0px 0px;
   }
 
   #pg-11-5>.panel-row-style {
@@ -9966,6 +10029,12 @@ html {
     left: 0px;
     z-index: 99999999;
     display: none;
+  }
+
+  .layer img {
+    width: 300%;
+    max-width: 480px;
+    height: auto;
   }
 
   .layer__active {
