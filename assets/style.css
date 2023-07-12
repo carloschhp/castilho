@@ -4021,6 +4021,7 @@ html {
   }
   .site-header {
     margin-bottom: 3.75rem;
+    position: relative;
   }
   .header {
     position: relative;
@@ -5711,6 +5712,14 @@ html {
   width: 40vw;
   transform: scalex(-1);
 }
+.detail5 {
+  position: absolute;
+  top: -60px;
+  right: -5px;
+  width: 25vw;
+  transform: scaleX(-1);
+  z-index: 999;
+}
 .quemsomos h3 {
   font-size: 3.4rem;
   text-transform: uppercase;
@@ -6957,14 +6966,14 @@ html {
   .logo__cliente {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: end;
     /* height: 100px; */
   }
   .logo__cliente img {
     width: 100%;
     height: auto;
     border: none;
-    /* max-width: 100px; */
+    max-width: 1110px;
   }
   .logo__cliente img:hover {
     border: none;
