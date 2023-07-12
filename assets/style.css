@@ -5668,6 +5668,7 @@ html {
 }
 .section__mapa {
   position: relative;
+  margin-top: 60px;
 }
 .section__mapaimg {
   margin: 70px 0px 0px 0px;
