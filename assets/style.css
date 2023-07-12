@@ -5639,7 +5639,7 @@ html {
   left: -50px;
   transition: all 0.3s ease;
   opacity: 0;
-  color: #000;
+  color: #FFF;
   z-index: 999;
   width: 320px;
   border-radius: 10px;
@@ -6958,13 +6958,16 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100px;
+    /* height: 100px; */
   }
   .logo__cliente img {
     width: 100%;
     height: auto;
     border: none;
-    max-width: 100px;
+    /* max-width: 100px; */
+  }
+  .logo__cliente img:hover {
+    border: none;
   }
   .widget_calendar table {
     width: 100%;
@@ -7145,7 +7148,15 @@ html {
     margin-top: 0;
   }
   .clientes .textwidget {
-    padding: 0px 0px 0px 200px;
+    margin: -125px 0px 0px 0px;
+}
+.section__video .logo__65anos {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 600px;
+  transform: translate(-50%, -50%);
+  z-index: 9999999999;
 }
   /*!* Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome * License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)*/
   /* @font-face {
