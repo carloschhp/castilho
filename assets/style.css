@@ -5659,6 +5659,13 @@ html {
 }
 .areas__atuacao {
   position: relative;
+  transition: all 0.3s ease;
+}
+.areas__atuacao .card {
+  transition: all 0.3s ease;
+}
+.areas__atuacao .card:hover {
+  transform: translate(0px, 10px);
 }
 .areas__atuacao__obraimg {
 
