@@ -7154,9 +7154,13 @@ html {
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 600px;
+  width: 450px;
   transform: translate(-50%, -50%);
-  z-index: 9999999999;
+  z-index: 999;
+  transition: all 0.3s ease;
+}
+.logo__65anos:hover {
+  transform: translate(-50%, -50%) scale(1.1);
 }
   /*!* Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome * License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)*/
   /* @font-face {
