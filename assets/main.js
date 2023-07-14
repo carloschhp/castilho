@@ -44,7 +44,7 @@ $(document).ready(function(){
       
         $('.slide_in_up').waypoint(function(direction) {
           myfunc_slideInUp(this.element, direction);
-        },{offset:'99%'});
+        },{offset:'98%'});
       
         $('.zoom_in').waypoint(function(direction) {
           myfunc_zoomIn(this.element, direction);
@@ -100,7 +100,7 @@ $(document).ready(function(){
             $(target).addClass("animated slideInUp");
             setTimeout(function(){
                 $(target).removeClass("animated slideInUp");
-              }, 2000);
+              }, 3000);
           }
         }
       

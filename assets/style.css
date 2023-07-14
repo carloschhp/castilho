@@ -10080,14 +10080,49 @@ html {
     animation-delay: 0.5s;
   }
 
-  .animate__delay-900ms {
+  .animate__delay-800ms {
     /* --animate-delay: 0.5s !important; */
-    animation-delay: 0.9s;
+    animation-delay: 0.8s;
   }
 
   .animate__delay-1500ms {
     /* --animate-delay: 0.5s !important; */
     animation-delay: 1500ms;
+  }
+
+   .animate__delay-1000ms {
+    /* --animate-delay: 0.5s !important; */
+    animation-delay: 1000ms;
+  }
+
+   .animate__delay-1200ms {
+    /* --animate-delay: 0.5s !important; */
+    animation-delay: 1200ms;
+  }
+
+   .animate__delay-1500ms {
+    /* --animate-delay: 0.5s !important; */
+    animation-delay: 1500ms;
+  }
+
+     .animate__delay-1700ms {
+    /* --animate-delay: 0.5s !important; */
+    animation-delay: 1700ms;
+  }
+
+     .animate__delay-1900ms {
+    /* --animate-delay: 0.5s !important; */
+    animation-delay: 1900ms;
+  }
+
+       .animate__delay-2100ms {
+    /* --animate-delay: 0.5s !important; */
+    animation-delay: 2100ms;
+  }
+
+     .animate__delay-2300ms {
+    /* --animate-delay: 0.5s !important; */
+    animation-delay: 2300ms;
   }
 
   .layer img {
