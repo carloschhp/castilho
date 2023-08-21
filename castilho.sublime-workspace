@@ -1,0 +1,821 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"innerWidth"
+			],
+			[
+				"obje",
+				"object-fit"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"label",
+				"labels2"
+			],
+			[
+				"labels",
+				"labels"
+			],
+			[
+				"labe",
+				"labels2"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"textra",
+				"text-transform"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"jsutify",
+				"justify-content"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/mysql/data/mysql_error.log",
+			"settings":
+			{
+				"buffer_size": 3252755,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/webpack/base/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 4828,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"remove a",
+				"Package Control: Remove Package"
+			],
+			[
+				"edit color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"color s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color shceme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Projetos/construtoracastilho/panoramica"
+	],
+	"file_history":
+	[
+		"/F/Games/Need for Speed Heat/__Installer/installerdata.xml",
+		"/C/Users/carlo/Desktop/index.html",
+		"/C/Users/carlo/Downloads/efemerides.json",
+		"/C/Users/carlo/Documents/listxxxxxxxxxx.txt",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/comunicados.php",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/archive-materiais.php",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/_assets/css/less/home.less",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/page-efemerides.php",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/sidebar.php",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/sidebar-inner.php",
+		"/C/Users/carlo/AppData/Local/Temp/fz3temp-2/archive-materiais.php",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/_assets/js/source/main.js",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/home-logged.php",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/style.css",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/footer.php",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/_assets/css/source/less.css",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/_assets/css/admin/admin.css",
+		"/C/xampp/htdocs/pmbcs/wp-content/themes/pmbcs/_theme/get-birthdays.php",
+		"/C/Users/carlo/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/carlo/AppData/Local/Temp/fz3temp-3/archive-materiais.php",
+		"/C/Users/carlo/AppData/Local/Temp/fz3temp-3/style.css",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/archive-dho.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/scss/base/header.scss",
+		"/C/Users/carlo/AppData/Local/Temp/fz3temp-3/footer.php",
+		"/C/Users/carlo/AppData/Local/Temp/fz3temp-3/header.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/config/variables.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/aniver/balloons.css",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/header.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/aniver/balloons.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/base/header.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/pages/page-home.js",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/scss/base/header.scss",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/header.php",
+		"/C/Users/carlo/Desktop/page-contato.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/footer.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/javascript/base/header.js",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/inc/config/custom-functions.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/index.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/scss/utils/_colors.scss",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/javascript/templates/template-acesso-rapido.js",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/inc/config/custom-post-type.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/inc/extra/gestores-admin.php",
+		"/C/xampp/apache/logs/error.log",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/inc/config/acf.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/inc/config/setup.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/inc/acf/vagas.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/templates/template-jogo-reconhecimento.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/webpack/package.json",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/inc/cpt/cpt_reconhecimento.php",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/style.css",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/webpack/base/webpack.config.js",
+		"/C/xampp/htdocs/conquista/wp-content/themes/conquista2/theme-after-header.php",
+		"/C/xampp/htdocs/colegios/wp-content/themes/colegio/arquidiocesano-faq.php",
+		"/C/xampp/htdocs/conquista/wp-content/themes/conquista/page-landing-page.php",
+		"/C/xampp/htdocs/conquista/wp-config-sample.php",
+		"/C/xampp/htdocs/conquista/wp-content/themes/conquista2/footer.php",
+		"/C/xampp/htdocs/gestaoescolar/wp-content/themes/gestaoescolar/style.css",
+		"/C/xampp/htdocs/gestaoescolar/wp-content/themes/gestaoescolar/template-parts/content.php",
+		"/C/xampp/mysql/data/mysql_error.log",
+		"/C/xampp/htdocs/maristalab/wp-content/themes/cheerup/footer.php",
+		"/C/xampp/htdocs/maristalab/wp-content/themes/cheerup/css/footer.css",
+		"/C/Users/carlo/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/xampp/htdocs/maristalab/wp-content/themes/cheerup/style.css",
+		"/C/xampp/htdocs/maristalab/wp-content/themes/cheerup/content-grid.php",
+		"/C/xampp/htdocs/maristalab/wp-content/themes/cheerup/footer_bkp.php",
+		"/C/xampp/htdocs/maristalab/wp-content/themes/cheerup/js/theme.js",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/maristalab/wp-content/themes/cheerup/header.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/taxonomy/tax_categorias-materiais.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/templates/template-super-banner.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/templates/template-super-banner.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/cpt/cpt_materiais.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/footer.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/acf/acf-superbanner.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/page-hub-podcast.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/page-hub-podcasts.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/scss/pages/page-hub-podcasts.scss",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/scss/pages/page-hub-galeria-de-videos.scss",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/page-hub-galeria-de-videos.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/page-hub-lives.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/archive-galeria-de-videos.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/search.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/archive.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/taxonomy-categoria-galeria-de-videos.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/pages/archive-lives.js",
+		"/C/Users/carlo/Downloads/1621524254134_2348420_1.input",
+		"/C/Users/carlo/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/carlo/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/category.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/pages/page-hub-podcasts.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/pages/galeria-de-videos.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/pages/archive.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/templates/template-categoria-posts.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/templates/template-card-busca.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/archive-comunicados.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/scss/pages/galerias.scss",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/config/option.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/acf/acf-valores.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/galeria-de-midia.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/acf/acf-lives.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/config/custom-post-type.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/compliance/compliance-template.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/templates/template-home-content.php",
+		"/C/xampp/htdocs/maristamais/wp-config.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/archive-podcasts.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/cpt/cpt_dho.php",
+		"/C/Users/carlo/Desktop/backupheader.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/config/acf.php",
+		"/C/Users/carlo/Downloads/web-practices-master/bday-balloons/balloons.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/archive-lives.php",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/archive-materiais.php",
+		"/C/Users/carlo/Documents/listxxxxxxxxxx",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/main.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/scss/old_css/materiais.scss",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/pages/archive-podcasts.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/javascript/pages/archive-materiais.js",
+		"/C/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/webpack/package.json",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/scss/utils/_media.scss",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/src/scss/pages/page-maristaon.scss",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/acf/acf-maristaon.php",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/acf/acf-usuario.php",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/page-maristaon.php",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/extra/role_custom.php",
+		"/C/Users/carlo/Documents/xxxxxxxxxxxxx",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/config/Usuario.php",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/cpt/cpt_deas.php",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/config/acf.php",
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/cpt/cpt_usuario.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 244.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\pmbcs\\wp-content\\themes\\pmbcs\\",
+			"C:\\xampp\\htdocs\\pmbcs\\wp-content\\themes\\pmbcs\\_assets\\css",
+			"C:\\xampp\\htdocs\\pmbcs\\wp-content\\themes\\pmbcs\\_assets",
+			"C:\\xampp\\htdocs\\pmbcs\\",
+			"C:\\xampp\\htdocs\\pmbcs\\wp-content\\themes\\pmbcs",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais",
+			"C:\\xampp\\htdocs\\rzvet\\wp-content\\themes\\rzvet\\src\\scss",
+			"C:\\xampp\\htdocs\\rzvet\\wp-content\\themes\\rzvet\\",
+			"C:\\xampp\\htdocs\\rzvet\\wp-content\\themes\\rzvet\\src\\webpack",
+			"C:\\xampp\\htdocs\\rzvet\\wp-content\\themes\\rzvet",
+			"C:\\xampp\\htdocs\\conquista\\wp-content\\themes\\conquista2",
+			"C:\\xampp\\htdocs\\conquista\\wp-content\\themes\\conquista",
+			"C:\\xampp\\htdocs\\gestaoescolar\\wp-content\\themes\\gestaoescolar",
+			"C:\\xampp\\htdocs\\maristalab\\wp-content\\themes\\cheerup",
+			"C:\\xampp\\htdocs\\maristalab\\wp-content\\themes\\maristalab",
+			"C:\\xampp\\htdocs\\maristalab\\wp-content\\themes\\cheerup",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\inc",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\src\\",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\src\\scss",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\src",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\src\\scss",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\src\\",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\src\\scss",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\src",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\inc",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\compliance",
+			"C:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais",
+			"F:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\",
+			"F:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\src\\scss",
+			"F:\\xampp\\htdocs\\maristamais\\wp-content\\themes\\maristamais\\src\\webpack"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loadCSS",
+			"col-md-6 col-xs-12 vagas-internas component_oracoes",
+			"id=\"efemerides\"",
+			"aniv-carousel-item",
+			"aniv-carousel-item-pic-sidebar",
+			"faça uma oração",
+			"box-list-item",
+			"aniverCarouselHome",
+			"aniverCarousel",
+			".aniv-header",
+			"jsFiles",
+			"owl",
+			"=======",
+			".sidebar .sidebar-categories",
+			"dhi_bday",
+			"container-aniversarios",
+			".list-downloads article.no-thumb",
+			".list-downloads article h6",
+			".barbar",
+			".balloon {",
+			"35deg",
+			"90deg",
+			"50deg",
+			"70deg",
+			"30deg",
+			"45deg",
+			"rotateZ(45deg",
+			"'img/",
+			".balloon .string",
+			"$assetsurl",
+			"desenvolvimento humano",
+			"60",
+			"header__logo",
+			".header {",
+			"template-acesso-rapido",
+			"gestores",
+			"gest",
+			"gestores-admin.php",
+			"gestores-admin",
+			"cpt_reconhecimento",
+			"cpt_usuario",
+			"usuario_ftd",
+			"usuario",
+			"reconhecimento",
+			"reconhecimento ftd",
+			"cpt_reconhe",
+			"reconhecimento",
+			"esli",
+			"opt",
+			"/ftd",
+			"ftd",
+			"vagas",
+			"vagas internas",
+			"vagas",
+			"vagas internas",
+			"planejamento estra",
+			"ftd",
+			"Páprica Comunicação",
+			"ftd",
+			"id=\"main-header\"",
+			"lksdmdfsklmflkdsmflkmf",
+			"et_pb_text_inner",
+			"et_pb_text_inner\n",
+			"et_pb_text_inner",
+			"et-1",
+			".et-1",
+			"trabalhe conosco",
+			"( $et_email = et_get_option( 'header_email' )",
+			"id=\"contato",
+			"id=\"con",
+			"got exception",
+			"got exception 0x",
+			"col-xs-12 col-sm-6 hidden-xs",
+			"#footerPt3 {",
+			"padding-bottom: 70px;",
+			"#footerPt3 a.ctaBordered1",
+			"#footerPt3 {",
+			"#footerPt3",
+			"#footerSocial p",
+			".portal_colegios #footerSocial p",
+			"portal_colegios",
+			"/images/",
+			"../../colegio/images",
+			"yout",
+			"footerPt4",
+			"#footer",
+			"div class=\" col menu\">",
+			"search",
+			"footer-row copyright",
+			"data-bgsrc",
+			"class=\"post-thumb\"",
+			"class=\"grid-overla",
+			"class=\"post-thumb\"",
+			"feat-grid",
+			"id=\"main-head\"",
+			"grid-overlay",
+			"grid-overlay grid-overlay-a",
+			"ister_taxonomy('categoria-galeria-de-videos', array",
+			"ister_taxonomy('categoria-galeria-de-videos', array,",
+			"galeria de videos",
+			"aniversariante__modal__content__bg",
+			"6vmax",
+			"8vmax",
+			"5vmax",
+			"6vmax",
+			"12vmax",
+			"balloonDimension",
+			"5vma",
+			"&.string",
+			") !",
+			"var(",
+			"ax);",
+			"12",
+			"anivers",
+			"balloonDimension",
+			"width",
+			"nth-child",
+			".balloon",
+			"aniversariante__modal__text",
+			"btn-lido",
+			"aniversariante__modal__content",
+			"setItem",
+			"hub_lives__sidebar__list__item",
+			"hub_lives__posts__item__title",
+			"hub_podcasts__posts__item__title",
+			"hub_lives__posts__item__desc",
+			"hub_lives__posts__item__title",
+			"hub_lives__seeMore"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/mysql/data/mysql_error.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3252755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3251218,
+								3249626
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 583966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/webpack/base/webpack.config.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "castilho.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sidebar",
+				"sidebar.php"
+			],
+			[
+				"comunic",
+				"comunicados.php"
+			],
+			[
+				"archive mate",
+				"archive-materiais.php"
+			],
+			[
+				"home",
+				"home-logged.php"
+			],
+			[
+				"materiais",
+				"archive-materiais.php"
+			],
+			[
+				"home logg",
+				"home-logged.php"
+			],
+			[
+				"colors scss",
+				"src\\scss\\utils\\_colors.scss"
+			],
+			[
+				"header js",
+				"src\\javascript\\base\\header.js"
+			],
+			[
+				"template-acesso",
+				"src\\javascript\\templates\\template-acesso-rapido.js"
+			],
+			[
+				"gestores",
+				"inc\\extra\\gestores-admin.php"
+			],
+			[
+				"reconhecimento",
+				"inc\\cpt\\cpt_reconhecimento.php"
+			],
+			[
+				"foote",
+				"cheerup\\footer.php"
+			],
+			[
+				"tax mater",
+				"inc\\taxonomy\\tax_categorias-materiais.php"
+			],
+			[
+				"super",
+				"templates\\template-super-banner.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"podcas",
+				"page-hub-podcast.php"
+			],
+			[
+				"ball",
+				"aniver\\balloons.js"
+			],
+			[
+				"tax",
+				"taxonomy-categoria-galeria-de-videos.php"
+			],
+			[
+				"templates/template-card-busca",
+				"templates\\template-card-busca.php"
+			],
+			[
+				"templates/template-categoria-posts",
+				"templates\\template-categoria-posts.php"
+			],
+			[
+				"hub-pod",
+				"src\\javascript\\pages\\page-hub-podcasts.js"
+			],
+			[
+				"home content",
+				"templates\\template-home-content.php"
+			],
+			[
+				"acf live",
+				"inc\\acf\\acf-lives.php"
+			],
+			[
+				"maristaon",
+				"page-maristaon.php"
+			],
+			[
+				"template-home-conten",
+				"templates\\template-home-content.php"
+			],
+			[
+				"usuario",
+				"inc\\config\\Usuario.php"
+			],
+			[
+				"media",
+				"src\\scss\\utils\\_media.scss"
+			],
+			[
+				"webpack",
+				"src\\webpack\\base\\webpack.config.js"
+			],
+			[
+				"mixins",
+				"src\\scss\\utils\\_mixins.scss"
+			],
+			[
+				"media scss",
+				"src\\scss\\utils\\_media.scss"
+			],
+			[
+				"maristaon scss",
+				"src\\scss\\pages\\page-maristaon.scss"
+			],
+			[
+				"variables",
+				"inc\\config\\variables.php"
+			],
+			[
+				".js",
+				"dist\\0.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"12":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"14":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"22":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"23":
+				{
+					"group": 0,
+					"index": 3
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
