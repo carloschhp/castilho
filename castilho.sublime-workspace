@@ -55,23 +55,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/xampp/mysql/data/mysql_error.log",
-			"settings":
-			{
-				"buffer_size": 3252755,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/webpack/base/webpack.config.js",
-			"settings":
-			{
-				"buffer_size": 4828,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -146,6 +129,9 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/mysql/data/mysql_error.log",
+		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/webpack/base/webpack.config.js",
+		"/F/xampp/htdocs/castilho/wp-content/themes/pmbcs/style.css",
 		"/F/Games/Need for Speed Heat/__Installer/installerdata.xml",
 		"/C/Users/carlo/Desktop/index.html",
 		"/C/Users/carlo/Downloads/efemerides.json",
@@ -196,7 +182,6 @@
 		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/webpack/package.json",
 		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/inc/cpt/cpt_reconhecimento.php",
 		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/style.css",
-		"/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/webpack/base/webpack.config.js",
 		"/C/xampp/htdocs/conquista/wp-content/themes/conquista2/theme-after-header.php",
 		"/C/xampp/htdocs/colegios/wp-content/themes/colegio/arquidiocesano-faq.php",
 		"/C/xampp/htdocs/conquista/wp-content/themes/conquista/page-landing-page.php",
@@ -204,7 +189,6 @@
 		"/C/xampp/htdocs/conquista/wp-content/themes/conquista2/footer.php",
 		"/C/xampp/htdocs/gestaoescolar/wp-content/themes/gestaoescolar/style.css",
 		"/C/xampp/htdocs/gestaoescolar/wp-content/themes/gestaoescolar/template-parts/content.php",
-		"/C/xampp/mysql/data/mysql_error.log",
 		"/C/xampp/htdocs/maristalab/wp-content/themes/cheerup/footer.php",
 		"/C/xampp/htdocs/maristalab/wp-content/themes/cheerup/css/footer.css",
 		"/C/Users/carlo/AppData/Local/Temp/fz3temp-2/footer.php",
@@ -272,8 +256,7 @@
 		"/C/Users/carlo/Documents/xxxxxxxxxxxxx",
 		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/config/Usuario.php",
 		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/cpt/cpt_deas.php",
-		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/config/acf.php",
-		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/cpt/cpt_usuario.php"
+		"/F/xampp/htdocs/maristamais/wp-content/themes/maristamais/inc/config/acf.php"
 	],
 	"find":
 	{
@@ -475,70 +458,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/xampp/mysql/data/mysql_error.log",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3252755,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3251218,
-								3249626
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 583966.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/xampp/htdocs/rzvet/wp-content/themes/rzvet/src/webpack/base/webpack.config.js",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4828,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
