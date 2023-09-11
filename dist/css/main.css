@@ -54,7 +54,6 @@ body {
 }
 body .boxed-container {
   background-color: #fff;
-  overflow-x: hidden;
 }
 body:root {
   --fill-layer-background-media-pointer-events: auto;
@@ -6243,7 +6242,7 @@ input[type=date].form-control.wpcf7-date {
 .detail1 {
   position: absolute;
   top: -60px;
-  right: -5px;
+  right: 0px;
   width: 25vw;
   transform: scaleX(-1);
 }

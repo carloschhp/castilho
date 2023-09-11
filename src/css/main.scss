@@ -204,7 +204,7 @@ body {
 	background-color: $background-color_2;
 	.boxed-container {
 		background-color: $background-color_2;
-		overflow-x: hidden;
+		// overflow-x: hidden;
 	}
 
 	&:root {
@@ -6168,7 +6168,7 @@ input[type="date"].form-control.wpcf7-date {
 .detail1 {
 	position: absolute;
 	top: -60px;
-	right: -5px;
+	right: 0px;
 	width: 25vw;
 	transform: scaleX(-1);
 }
