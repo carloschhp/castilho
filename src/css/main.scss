@@ -5650,22 +5650,17 @@ body.boxed {
   position: relative;
 }
 .portfolio-grid__nav {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  overflow: hidden;
-  position: relative;
+    display: flex;
+    /* overflow: visible; */
+    /* position: static; */
+    flex-wrap: wrap;
+    justify-content: left;
+    padding: 0px;
 }
 .portfolio-grid__nav-item {
   text-overflow: ellipsis;
-}
-.portfolio-grid__nav-item.is-active {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  color: $color_6;
   &::after {
+    transition: all 0.3s ease;
     content: "";
     position: absolute;
     left: 0;
@@ -5675,9 +5670,33 @@ body.boxed {
     background-color: $background-color_20;
     background-color: $background-color_20;
   }
+}
+.portfolio-grid__nav-item{
+  position: absolute;
+  transition: all 0.3s ease;
+  top: 0;
+  left: 0;
+  right: 0;
+  color: $color_6;
   > .portfolio-grid__nav-link {
     color: $color_6;
   }
+  &:hover {
+      &::after {
+        transform: translateY(5px);
+      }
+  }
+  
+.portfolio-grid__nav-link {
+  transition: all 0.3s ease;
+  &:hover {
+    color: #9a9ea0;
+    transform: translateY(-5px);
+      &::after {
+        transform: translateY(5px);
+      }
+  }
+}
 }
 .portfolio-grid__nav-link {
   font-size: 1rem;
@@ -13311,6 +13330,10 @@ body.woocommerce-page {
   .portfolio-grid__nav-item {
     display: inline-block;
     margin-right: 1.9375rem;
+    position: relative;
+    &::after {
+      bottom: -1px;
+    }
   }
   .portfolio-grid__nav-item.is-active {
     position: relative;
@@ -13322,6 +13345,9 @@ body.woocommerce-page {
     display: inline-block;
     padding-top: 15px;
     padding-bottom: 5px;
+    &:hover {
+
+    }
   }
   .portfolio-grid__arrows {
     position: static;
