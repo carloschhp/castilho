@@ -5740,6 +5740,7 @@ body.boxed .footer-bottom__right::after {
   left: 0;
   right: 0;
   color: #333;
+  width: 100%;
 }
 .portfolio-grid__nav-item > .portfolio-grid__nav-link {
   color: #333;
