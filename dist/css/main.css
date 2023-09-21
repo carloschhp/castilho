@@ -12438,8 +12438,10 @@ body.woocommerce-page span.onsale {
   }
   .jumbotron-content {
     position: absolute;
-    width: 32.5rem;
-    top: 6%;
+    width: 100%;
+    max-width: 768px;
+    top: 50% !important;
+    transform: translateY(-50%);
   }
   .jumbotron-content__title {
     color: #fff;
