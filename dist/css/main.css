@@ -6289,12 +6289,12 @@ input[type=date].form-control.wpcf7-date {
 .quemsomos h3 {
   font-size: 3.4rem;
   text-transform: uppercase;
-  margin: 30px 0px 40px 0px;
+  margin: 30px 0px 15px 0px;
   font-weight: 900;
   line-height: 1.1;
   color: #fff;
   background-repeat: no-repeat;
-  padding: 80px 0px;
+  padding: 60px 0px 50px 0px;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -11223,6 +11223,7 @@ body.woocommerce-page span.onsale {
 
 #pg-11-3 {
   margin-bottom: 0px;
+  overflow: hidden;
 }
 #pg-11-3 > .panel-row-style {
   background-color: #f2f2f2;
@@ -12486,11 +12487,8 @@ body.woocommerce-page span.onsale {
   .jumbotron__widgets .widget:last-of-type {
     padding-bottom: 0;
   }
-  .portfolio-grid__header {
-    border-bottom: 1px solid #eee;
-  }
   .portfolio-grid__nav {
-    display: block;
+    display: flow;
     overflow: visible;
     position: static;
   }
@@ -12506,8 +12504,8 @@ body.woocommerce-page span.onsale {
   }
   .portfolio-grid__nav-link {
     display: inline-block;
-    padding-top: 0.5rem;
-    padding-bottom: 2.3125rem;
+    padding-top: 15px;
+    padding-bottom: 5px;
   }
   .portfolio-grid__arrows {
     position: static;
