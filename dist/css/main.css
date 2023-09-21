@@ -5405,7 +5405,7 @@ body.boxed .footer-bottom__right::after {
 }
 .jumbotron .carousel-item > img {
   width: 100%;
-  height: 280px;
+  height: 380px;
   object-fit: cover;
   object-position: center;
   transform: scaleX(-1);
@@ -6285,6 +6285,7 @@ input[type=date].form-control.wpcf7-date {
   padding: 0px 0px 70px 0px;
   background-attachment: fixed;
   background-position: center;
+  position: relative;
 }
 .quemsomos h3 {
   font-size: 3.4rem;
