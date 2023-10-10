@@ -106,7 +106,7 @@
                     <a href="residuos-solidos.html">Resíduos sólidos</a>
                   </li>
                   <li id="menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500">
-                    <a href="mineração.html">Mineração</a>
+                    <a href="mineracao.html">Mineração</a>
                   </li>
                   <li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501">
                     <a href="obras-internacionais.html">Obras internacionais</a>
@@ -118,13 +118,13 @@
                 <a>Área Restrita</a>
                 <ul class="sub-menu">
                   <li id="menu-item-489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-489">
-                    <a href="https://www.castilho.com.br/download/AnyDesk.exe">Anydesk</a>
+                    <a href="download/AnyDesk.exe">Anydesk</a>
                   </li>
                   <li id="menu-item-490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490">
                     <a href="http://fluig.castilho.com.br:1010/portal/home">Fluig</a>
                   </li>
                   <li id="menu-item-491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-491">
-                    <a href="https://www.castilho.com.br/loginSISMA.html">SISMA</a>
+                    <a href="loginSISMA.html">SISMA</a>
                   </li>
                   <li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492">
                     <a href="https://webmail.castilho.com.br/">Webmail</a>
@@ -136,10 +136,10 @@
                 <a>Compliance</a>
                 <ul class="sub-menu">
                   <li id="menu-item-489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-489">
-                    <a href="https://www.castilho.com.br/denuncia.php">Denúncia</a>
+                    <a href="denuncia.php">Denúncia</a>
                   </li>
                   <li id="menu-item-490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490">
-                    <a href="https://www.castilho.com.br/lgpd.html">LGPD</a>
+                    <a href="lgpd.html">LGPD</a>
                   </li>
                 </ul>
               </li>
@@ -148,10 +148,10 @@
                 <a>Contato</a>
                 <ul class="sub-menu">
                   <li id="menu-item-489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-489">
-                    <a href="https://www.castilho.com.br/contato.php">Contato</a>
+                    <a href="contato.php">Contato</a>
                   </li>
                   <li id="menu-item-490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490">
-                    <a href="https://www.castilho.com.br/manutencao.html">Trabalhe Conosco</a>
+                    <a href="manutencao.html">Trabalhe Conosco</a>
                   </li>
                 </ul>
               </li>
@@ -162,40 +162,7 @@
             </ul>
           </nav>
 
-          <div class="jumbotron__widgets hidden-lg-up">
-            <div class="widget widget-icon-box">
-              <div class="icon-box">
-                <i class="fa fa-phone"></i>
-                <div class="icon-box__text">
-                  <h4 class="icon-box__title">Whatsapp:</h4>
-                  <span class="icon-box__subtitle">+55 (41) 3025-3333</span>
-                </div>
-              </div>
-            </div>
-            <div class="widget widget-icon-box">
-              <div class="icon-box">
-                <i class="fa fa-clock-o"></i>
-                <div class="icon-box__text">
-                  <h4 class="icon-box__title">Horário de atendimento:</h4>
-                  <span class="icon-box__subtitle">Seg - Sex: 7h - 18h</span>
-                </div>
-              </div>
-            </div>
-            <div class="widget widget-icon-box">
-              <div class="icon-box">
-                <i class="fa fa-envelope-o"></i>
-                <div class="icon-box__text">
-                  <h4 class="icon-box__title">E-mail</h4>
-                  <span class="icon-box__subtitle">construtoracastilho@email.com</span>
-                </div>
-              </div>
-            </div>
-            <div class="widget widget-social-icons">
-              <a class="social-icons__link" href="https://www.facebook.com/construtoracastilho/" target="_self"><i class="fa fa-facebook-square"></i></a>
-              <a class="social-icons__link" href="https://twitter.com/construtoracastilho" target="_self"><i class="fa fa-twitter-square"></i></a>
-              <a class="social-icons__link" href="https://www.youtube.com/user/construtoracastilho" target="_self"><i class="fa fa-youtube-square"></i></a>
-            </div>
-          </div>
+ 
 
           <div class="header__featured-link">
             <a class="btn btn-primary fade_in_right hidden" href="#sec__mapa">MAPA</a>
